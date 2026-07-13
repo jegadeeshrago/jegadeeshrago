@@ -70,6 +70,39 @@ I'm particularly interested in designing systems that combine **real-time perfor
 * AI-assisted Embedded Development
 
 ---
+# Featured Projects
+
+## 🚀 Embedded Edge Vision & Automated Sorting Pipeline
+
+This project is a real-time, embedded computer vision and automated decision-making pipeline deployed on Linux-based embedded hardware (NVIDIA Jetson via JetPack). Designed for robotics and factory automation environments, the system interfaces directly with machine vision cameras to inspect passing inventory on a conveyor belt.
+
+---
+
+## ✨ Features
+
+- **Embedded Linux Deployment**: Built and optimized for ARM64 architectures using NVIDIA JetPack environments.
+- **Machine Vision Processing**: Low-latency frame capture and spatial filtering via OpenCV.
+- **Deterministic Edge Inference**: Real-time classification using lightweight Decision Trees for instantaneous sorting.
+- **Hardware-Level Interaction**: Modular driver abstraction layers simulating GPIO/V4L2 camera control.
+- **EMS Integration**: Actively monitors system voltage, current, and temperature constraints to prevent thermal throttling at the edge.
+- **Remote Diagnosis & Logging**: Structured, file-rotated logging mechanism designed for remote SSH replication and debugging.
+
+---
+
+**Tech Stack:** 
+```
+| Component | Technology |
+|------------|------------|
+| **OS / Platform**   | Embedded Linux (Ubuntu ARM64), NVIDIA JetPack SDK |
+| **Languages**       | Python 3.9+, C++ (Driver Abstraction Hooks) |
+| **Machine Vision**  | OpenCV (V4L2 Video Backend, Color Spaces, Contours) |
+| **Edge Machine Learning** | Scikit-Learn (Decision Tree Classifier) |
+| **Telemetry & Energy** | EMS API Simulators, POSIX Signals, Syslog Hooks |
+```
+
+**Repository:**  
+https://github.com/jegadeeshrago/edgeAI_Sample
+
 
 ## 💼 Experience
 
