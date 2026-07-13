@@ -4,6 +4,35 @@
 
 ### Embedded Software Architect • Embedded Linux • Real-Time Systems • Networking • Autonomous Systems • Edge AI
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/Embedded%20Linux-FF6F61?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/Yacto-8A2BBB?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/Agentic%20AI-brightgreen?style=for-the-badge" />
+  </a>
+   
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  </a>
+  </p>
+
+<p align="center">
+  <a href="https://github.com/jegadeeshrago">
+    <img src="https://komarev.com/ghpvc/?username=jegadeeshrago&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
+</a>
+  
 📍 Antwerp, Belgium 🇧🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jegadeesh%20Ragothaman-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jegadeesh-ragothaman)
